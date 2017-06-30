@@ -20,3 +20,5 @@
 
 #### 　如何在vs2012中进行github项目开发
 >  参考此步骤：http://blog.csdn.net/w18767104183/article/details/25158935
+
+测试修改上传
